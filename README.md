@@ -1,7 +1,7 @@
 # Sensor1
 This is a PCB for a My-sensor network with a Moteino, RFM69 radio, Includes 2 relays, 24V AC power, Si7021 and MCP9800 and analog interface..
 
-This is a prototype, not all function have been tested as of 14 June 2015
+This is a prototype, not all function have been tested as of 29 July 2015
 
 Sensor 1
 
