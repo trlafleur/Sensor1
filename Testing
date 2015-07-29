@@ -1,13 +1,14 @@
 29 July 2015
 
-1) Power supply with TL720 works fine
+1) Power supply with TL720M05 works fine
 2) Power supply with D24V6F5 works fine
 3) LED's all work
 4) Relays work
 5) Si7021 work fine with test code
+6) Fits in Hammond box
 
 
 TBD
 1) Test 74ACT input ckts
-2) Test analog divders/filtesr
+2) Test analog divders/filters
 3) Test MCP9800A1
