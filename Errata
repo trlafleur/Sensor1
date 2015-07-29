@@ -1,0 +1,7 @@
+As of 29 July 2015
+Rev 2a
+1) Pad size for F2 is to large
+2) Check U6 pad size, pads work fine, but we should check them
+3) C4, add a + on slikscreen
+4) Consider adding node ID pins on next release
+
