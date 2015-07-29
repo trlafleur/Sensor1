@@ -13,7 +13,7 @@ Basic functions:
 
 1)	Carrier for a Moteino processor with a RFM69W(H) radio
 
-2)	Power supply 8 to 24V AC or DC
+2)	Power supply 7 to 32V AC or DC
 
 3)	Condition pulse counter with 1st order pulse filtering
 
@@ -30,7 +30,7 @@ Basic functions:
 9)	Designed to fit in a Hammond 1554C water resistant case
 
 
-The power supply is designed to be run from a standard irrigation 24V AC power source, but can be run from 8 to 24V AC or DC. Input power is fused with a PTC and then connected to a bridge rectifier, filtered with a large capacitor and then connected to a Pololu D24V6F5 ($6), 5V 600ma switching power supply or a 300ma version, D24V3F5 ($4), or there is also space to use a TI TL720M05 three terminal regulator in a TO252 package.
+The power supply is designed to be run from a standard irrigation 24V AC power source, but can be run from 7 to 32V AC or DC. Input power is fused with a PTC and then connected to a bridge rectifier, filtered with a large capacitor and then connected to a Pololu D24V6F5 ($6), 5V 600ma switching power supply or a 300ma version, D24V3F5 ($4), or there is also space to use a TI TL720M05 three terminal regulator in a TO252 package.
 
 The pulse input provides a 1st order filtering of pulses from mechanical (reed) switch as found in many water meters. Switch de-bouncing-filtering is done by R7, D3, R9, C7 and U1. The 74AHC14 inverter has a Schmitt trigger input to help with noise immunity and will provide high voltage isolation on the input. (See the reference below on how it works.) 
 
