@@ -1,5 +1,7 @@
 /* This is test code for the Si7021 on the Sensor1 R2a platform
 29 July 2015
+
+Note: this code has issue with RH > 82%, looks to return a negative number
 */
 
 #include <Wire.h>
